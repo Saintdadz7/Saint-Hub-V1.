@@ -2621,13 +2621,13 @@ local C = Window:MakeTab({
 
 -----Label--------------------
 local Section = W:AddSection({
-    Name = "Update"
+    Name = "Credits"
 })
 
-W:AddLabel("[+] SaintHub is HERE!")
-W:AddLabel("[+] Best AutoFarm!")
-W:AddLabel("[+] Up and Growing")
-W:AddLabel("[+] Smooth")
+W:AddLabel("[+] https://discord.gg/PnssYKyhd4")
+W:AddLabel("[+] Criador:SaintTroller)
+W:AddLabel("[+]SaintHub🔱 )
+W:AddLabel("[+] Divirta-se!")
 
 local Section = W:AddSection({
     Name = "Status"
